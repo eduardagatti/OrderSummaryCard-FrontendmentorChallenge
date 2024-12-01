@@ -10,8 +10,3 @@ O desafio consistia em replicar um design fornecido, utilizando apenas HTML e CS
 - Estruturação semântica com HTML.  
 - Estilização com CSS, incluindo uso de técnicas responsivas.  
 - Layout fiel ao design original.  
-
-## 📂 Estrutura de Arquivos  
-- `index.html`: Arquivo principal com a estrutura do card.  
-- `styles.css`: Arquivo contendo as regras de estilo do projeto.    
- 
